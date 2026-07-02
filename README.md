@@ -57,7 +57,7 @@ clip2text/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyapulakhandam/Clip2Text.git
+git clone https://github.com/SravyaSala/Clip_2_Text.git
 cd Clip2Text
 ```
 
